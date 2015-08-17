@@ -1,5 +1,5 @@
 # Questions for an interviewer from an interviewee
-A categorized list of questions that you may want to know the answers to before accepting a job offer in the software field.
+A curated, categorized list of questions that you may want to know the answers to before accepting a job offer in the software field.
 
 ## Engineering practices
 * What version control system do you use?

@@ -90,3 +90,4 @@ _As many of these as possible are “statistical” questions – a company may 
 * What do you wish you had known when you joined this company?
 * Why did you choose to join this company? Why are you still here?
 * What’s the single biggest issue or problem facing the team/department/company? What’s currently being done to address it?
+* How formal is the office environment? Will jeans and a tshirt be acceptable, business casual, or more formal?

@@ -53,6 +53,7 @@ _As many of these as possible are “statistical” questions – a company may 
 ## Community involvement
 * Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
 * Do your employees speak at conferences about your work? Can you tell me about one of these times?
+* Are there any local communities you support? 
 
 ## Career development
 * Are employees encouraged to go speak at conferences?

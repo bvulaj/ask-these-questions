@@ -54,6 +54,7 @@ _As many of these as possible are “statistical” questions – a company may 
 ## Community involvement
 * Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
 * Do your employees speak at conferences about your work? Can you tell me about one of these times?
+* Are there any local communities you support? 
 
 ## Career development
 * Are employees encouraged to go speak at conferences?
@@ -74,6 +75,9 @@ _As many of these as possible are “statistical” questions – a company may 
 * Do people often eat meals at the office?  Is it ever provided by the company?
 * How many hours a week does senior management work?
 * Are senior managers accessible to developers?
+* How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
+* Do you allow remote work? Are you a remote-first company?
+* If you allow remote work, how do you support remote workers and make sure distributed teams are effective?
 * What are some common qualities of the top performers in <role> at the company?
 * What are some of your favorite perks of working at the company?
 * What is the turnover like at the company and the team I'd be joining?

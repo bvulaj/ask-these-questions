@@ -73,7 +73,7 @@ _As many of these as possible are “statistical” questions – a company may 
 * Are senior managers accessible to developers?
 * How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 * Do you allow remote work? Are you a remote-first company?
-* If you allow remote work, how do you support remote workers and make sure teams are effective?
+* If you allow remote work, how do you support remote workers and make sure distributed teams are effective?
 
 ## Financials, business model and growth
 * Are you profitable?

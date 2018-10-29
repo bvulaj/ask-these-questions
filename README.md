@@ -47,6 +47,7 @@ A curated, categorized list of questions that you may want to know the answers t
 * Do people check in when they’re on vacation? How often?
 * Is it possible to work from home? How often? Does anyone do this?
 * Does this position require travel? How often?
+* What is your biggest pain point of working here?
 
 _As many of these as possible are “statistical” questions – a company may say that they “don’t have hours”, but if everyone leaves at 9pm that’s not a good sign._
 
@@ -60,6 +61,8 @@ _As many of these as possible are “statistical” questions – a company may 
 * Do you cover travel to conferences? How many conferences a year do developers typically go to?
 * Does your company support continuing education or provide tuition reimbursement?
 * In what other ways do you support career development?
+* What does the first week/month/90 days look like for a new employee?
+* What are some of the challenges you've seen new employees struggle with?
 
 ## Culture
 * How do you determine if someone is a poor fit for your company? What does a good fit look like in your mind?
@@ -75,6 +78,9 @@ _As many of these as possible are “statistical” questions – a company may 
 * How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 * Do you allow remote work? Are you a remote-first company?
 * If you allow remote work, how do you support remote workers and make sure distributed teams are effective?
+* What are some common qualities of the top performers in <role> at the company?
+* What are some of your favorite perks of working at the company?
+* What is the turnover like at the company and the team I'd be joining?
 
 ## Financials, business model and growth
 * Are you profitable?
@@ -85,8 +91,12 @@ _As many of these as possible are “statistical” questions – a company may 
 
 ## Office space, hardware, and tools
 * How is the office space physically organized? Is it an open environment? Do developers get offices?
-* What type of hardware is provided? How often is it upgraded?
+* What type of hardware is provided? How often is it upgraded? Is it a company-wide standard or is it customized for the group/team? 
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
+* Can I install the software I need myself or does an "IT Department" need to do it? Do I have to fill out a formal request?
+* Can I choose my own hardware, OS, and software?
+* How often does installed software, firewalls, proxies, etc. get in the way of you doing your best work?
+* How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 
 ## Other
 * Can you tell me about how the entire interview process is structured? How many interviews are there?
@@ -94,3 +104,4 @@ _As many of these as possible are “statistical” questions – a company may 
 * What do you wish you had known when you joined this company?
 * Why did you choose to join this company? Why are you still here?
 * What’s the single biggest issue or problem facing the team/department/company? What’s currently being done to address it?
+* Is this position newly created or a backfill? If backfill, why did last person leave? Would I be able to speak with them about it?

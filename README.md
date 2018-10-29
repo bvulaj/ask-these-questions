@@ -90,6 +90,7 @@ _As many of these as possible are “statistical” questions – a company may 
 * What type of hardware is provided? How often is it upgraded?
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
 * Does IT/Development follow same policies and procedures with regards to hardware choices; operating system; permissions and admin rights on issued hardware; antivirus, DLP, and other security software; office suites; mandated software or "standard" installation?
+* How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 
 ## Other
 * Can you tell me about how the entire interview process is structured? How many interviews are there?

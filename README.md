@@ -71,6 +71,9 @@ _As many of these as possible are “statistical” questions – a company may 
 * Do people often eat meals at the office?  Is it ever provided by the company?
 * How many hours a week does senior management work?
 * Are senior managers accessible to developers?
+* How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
+* Do you allow remote work? Are you a remote-first company?
+* If you allow remote work, how do you support remote workers and make sure distributed teams are effective?
 
 ## Financials, business model and growth
 * Are you profitable?
@@ -83,7 +86,6 @@ _As many of these as possible are “statistical” questions – a company may 
 * How is the office space physically organized? Is it an open environment? Do developers get offices?
 * What type of hardware is provided? How often is it upgraded?
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
-* How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 
 ## Other
 * Can you tell me about how the entire interview process is structured? How many interviews are there?

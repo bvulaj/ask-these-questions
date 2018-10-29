@@ -87,9 +87,11 @@ _As many of these as possible are “statistical” questions – a company may 
 
 ## Office space, hardware, and tools
 * How is the office space physically organized? Is it an open environment? Do developers get offices?
-* What type of hardware is provided? How often is it upgraded?
+* What type of hardware is provided? How often is it upgraded? Is it a company-wide standard or is it customized for the group/team? 
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
-* Does IT/Development follow same policies and procedures with regards to hardware choices; operating system; permissions and admin rights on issued hardware; antivirus, DLP, and other security software; office suites; mandated software or "standard" installation?
+* Can I install the software I need myself or does an "IT Department" need to do it? Do I have to fill out a formal request?
+* Can I choose my own hardware, OS, and software?
+* How often does installed software, firewalls, proxies, etc. get in the way of you doing your best work?
 * How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
 
 ## Other

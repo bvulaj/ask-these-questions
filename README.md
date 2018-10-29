@@ -47,6 +47,7 @@ A curated, categorized list of questions that you may want to know the answers t
 * Do people check in when they’re on vacation? How often?
 * Is it possible to work from home? How often? Does anyone do this?
 * Does this position require travel? How often?
+* What is your biggest pain point of working here?
 
 _As many of these as possible are “statistical” questions – a company may say that they “don’t have hours”, but if everyone leaves at 9pm that’s not a good sign._
 
@@ -71,6 +72,9 @@ _As many of these as possible are “statistical” questions – a company may 
 * Do people often eat meals at the office?  Is it ever provided by the company?
 * How many hours a week does senior management work?
 * Are senior managers accessible to developers?
+* What are some common qualities of the top performers in <role> at the company?
+* What are some of your favorite perks of working at the company?
+* What is the turnover like at the company and the team I'd be joining?
 
 ## Financials, business model and growth
 * Are you profitable?
@@ -83,6 +87,7 @@ _As many of these as possible are “statistical” questions – a company may 
 * How is the office space physically organized? Is it an open environment? Do developers get offices?
 * What type of hardware is provided? How often is it upgraded?
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
+* Does IT/Development follow same policies and procedures with regards to hardware choices; operating system; permissions and admin rights on issued hardware; antivirus, DLP, and other security software; office suites; mandated software or "standard" installation?
 
 ## Other
 * Can you tell me about how the entire interview process is structured? How many interviews are there?
@@ -90,3 +95,6 @@ _As many of these as possible are “statistical” questions – a company may 
 * What do you wish you had known when you joined this company?
 * Why did you choose to join this company? Why are you still here?
 * What’s the single biggest issue or problem facing the team/department/company? What’s currently being done to address it?
+* What does the first week/month/90 days look like for a new employee?
+* What are some of the challenges you've seen new employees struggle with?
+* Is this position newly created or a backfill? If backfill, why did last person leave? Would I be able to speak with them about it?

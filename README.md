@@ -60,6 +60,8 @@ _As many of these as possible are “statistical” questions – a company may 
 * Do you cover travel to conferences? How many conferences a year do developers typically go to?
 * Does your company support continuing education or provide tuition reimbursement?
 * In what other ways do you support career development?
+* What does the first week/month/90 days look like for a new employee?
+* What are some of the challenges you've seen new employees struggle with?
 
 ## Culture
 * How do you determine if someone is a poor fit for your company? What does a good fit look like in your mind?
@@ -95,6 +97,4 @@ _As many of these as possible are “statistical” questions – a company may 
 * What do you wish you had known when you joined this company?
 * Why did you choose to join this company? Why are you still here?
 * What’s the single biggest issue or problem facing the team/department/company? What’s currently being done to address it?
-* What does the first week/month/90 days look like for a new employee?
-* What are some of the challenges you've seen new employees struggle with?
 * Is this position newly created or a backfill? If backfill, why did last person leave? Would I be able to speak with them about it?

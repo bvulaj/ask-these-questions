@@ -19,6 +19,7 @@ A curated, categorized list of questions that you may want to know the answers t
 * Who are the people at your company with a lot of depth of experience? Will I be able to speak with them?
 * Who are the newer people at your company? Will I be able to speak with them?
 * What’s your approach to technical debt?
+* Contrasting technical debt with "No Broken Windows", where are you on that continuum? Why?
 
 ## Management style
 * How does engineering work get assigned? Which development methodology do you practice? Can you explain it?
@@ -88,15 +89,28 @@ _As many of these as possible are “statistical” questions – a company may 
 * How do you make money? What's your elevator pitch?
 * How much are you planning to hire in the next year?
 * Are company financials transparent throughout the company?
+* What is your annual revenue? How many employees? (_Calculate revenue-per-employee, is it enough to cover average salary estimate for company + profit margin?_)
 
 ## Office space, hardware, and tools
 * How is the office space physically organized? Is it an open environment? Do developers get offices?
 * What type of hardware is provided? How often is it upgraded? Is it a company-wide standard or is it customized for the group/team? 
 * Are developers allowed to use whichever tools they need for the job? Will the company provide funding for these tools?
+* Is there a budget or reimbursement for reasonable system upgrades and/or accessories like keyboard, mouse, etc.?
 * Can I install the software I need myself or does an "IT Department" need to do it? Do I have to fill out a formal request?
 * Can I choose my own hardware, OS, and software?
 * How often does installed software, firewalls, proxies, etc. get in the way of you doing your best work?
 * How formal is the office environment? Will jeans and a tshirt be acceptable? If not, what is considered acceptable?
+
+## Benefits
+* For medical benefits, do you have a conventional or PPO for Rochester? If not,is everything considered "out of network" and is it expensive?
+* What is my approximate contribution for medical? Do you also cover spouse? Family? What is the deductible and per-visit copay?
+* Do you offer vision and dental coverage, and what is my contribution?
+* Do you offer reimbursement for mobile phone, internet, training, etc.?
+* Is there a 401K? How long until I'm eligible to contribute? Is there a match? How long until company makes contributions?
+* Who is the 401k provider? How are the expenses? How many fund choices are there?
+* Can I roll another 401k plan into this one?
+* Is there tuition reimbursement? How much annually? Can you estimate how many people use it?
+* Do you offer stock options, RSUs (Restricted Stock Units), or other forms of ownership? (_Note that books have been written about valuating grants, evaluating and negotiating terms, dilution, etc._)
 
 ## Other
 * Can you tell me about how the entire interview process is structured? How many interviews are there?

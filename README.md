@@ -105,3 +105,4 @@ _As many of these as possible are “statistical” questions – a company may 
 * Why did you choose to join this company? Why are you still here?
 * What’s the single biggest issue or problem facing the team/department/company? What’s currently being done to address it?
 * Is this position newly created or a backfill? If backfill, why did last person leave? Would I be able to speak with them about it?
+* What documents would I have to sign as a new employee? (e.g.: non-compete, arbitration agreements, IP agreements)
